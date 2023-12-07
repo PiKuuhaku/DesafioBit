@@ -1,0 +1,6 @@
+@DesafioBit_HostAddress = http://localhost:5045
+
+GET {{DesafioBit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
